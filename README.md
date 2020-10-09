@@ -1,4 +1,4 @@
-# BlueJay: A Simple Twitter Bot in Python
+# BlueJay: A Simple Twitter Bot Written in Python
 
 <p align="center">
   <img src="bluejay.png">
